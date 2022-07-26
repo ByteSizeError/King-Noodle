@@ -1,12 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import KingNoodleMenu from "./KingNoodleHouse-July-25-2022.pdf";
 
 function App() {
     return (
         <div className="App">
-            <embed
-                src={`${KingNoodleMenu}#view=fitH&toolbar=0`}
+            <iframe
+                src={`https://drive.google.com/file/d/1MnyugLACTVc_jqqqrUumq4ROpyYmziKS/preview#view=fitH&toolbar=0`}
                 title="KingNoodleHouse"
                 width="100%"
                 height="100%"
