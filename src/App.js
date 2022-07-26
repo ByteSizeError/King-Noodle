@@ -5,7 +5,7 @@ import KingNoodleMenu from "./KingNoodleHouse-July-25-2022.pdf";
 function App() {
     return (
         <div className="App">
-            <iframe
+            <embed
                 src={`${KingNoodleMenu}#view=fitH&toolbar=0`}
                 title="KingNoodleHouse"
                 width="100%"
