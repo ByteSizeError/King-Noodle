@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/KingNoodle/static/css/main.073c9b0a.css",
-    "main.js": "/KingNoodle/static/js/main.c55f2669.js",
+    "main.js": "/KingNoodle/static/js/main.ebe3cfa6.js",
     "static/js/787.934aba0d.chunk.js": "/KingNoodle/static/js/787.934aba0d.chunk.js",
     "static/media/KingNoodleHouse-July-25-2022.pdf": "/KingNoodle/static/media/KingNoodleHouse-July-25-2022.ca5fc995f75c8d28f1eb.pdf",
     "static/media/logo.svg": "/KingNoodle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/KingNoodle/index.html",
     "main.073c9b0a.css.map": "/KingNoodle/static/css/main.073c9b0a.css.map",
-    "main.c55f2669.js.map": "/KingNoodle/static/js/main.c55f2669.js.map",
+    "main.ebe3cfa6.js.map": "/KingNoodle/static/js/main.ebe3cfa6.js.map",
     "787.934aba0d.chunk.js.map": "/KingNoodle/static/js/787.934aba0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c55f2669.js"
+    "static/js/main.ebe3cfa6.js"
   ]
 }
